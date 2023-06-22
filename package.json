@@ -1,0 +1,11 @@
+{
+  "name": "Bot_Laura",
+  "version": "1.0.0",
+  "description": "Bot de whatsappa para mi novia Laura",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Santiago Castaño Herrera",
+  "license": "MIT"
+}
